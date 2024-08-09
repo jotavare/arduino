@@ -1,6 +1,25 @@
 ## ABOUT
 
-This repository documents my journey into embedded systems, beginning with `Arduino`. Each exercise in the `/sketches` folder features a schematic and a real-world photo of the setup. The `README.md` includes references and key information I've learned throughout these projects. The kit I used (ELEGOO Mega R3 2560) is available [here](https://www.amazon.es/dp/B01MQPT9OD).
+This repository documents my journey into embedded systems, starting with `Arduino`. Each exercise in the `/sketches` folder features a schematic, a real-world photo and video of the setup made by me. The `README.md` includes references and key information I've learned throughout these projects. The kit I used (ELEGOO Mega R3 2560) is available to buy [here](https://www.amazon.es/dp/B01MQPT9OD).
+
+## SKETCHES
+
+| Sketche | Image | Video |
+| :------ | :---- | :---- |
+| [Blink](https://github.com/jotavare/arduino/tree/main/sketches/blink.ino) | [Image](#) | [Video](#) |
+| [LED](#)  | [Image](#) | [Video](#) |
+| [RGB LED](#)  | [Image](#) | [Video](#) |
+| [Digital Inputs](#)  | [Image](#) | [Video](#) |
+| [Active Buzzer](#)  | [Image](#) | [Video](#) |
+| [Passive Buzzer](#)  | [Image](#) | [Video](#) |
+| [Till Ball Switch](#)  | [Image](#) | [Video](#) |
+| [Servo](#)  | [Image](#) | [Video](#) |
+| [Ultrasonic Sensor](#)  | [Image](#) | [Video](#) |
+| [Temperature and Humidity Sensor](#)  | [Image](#) | [Video](#) |
+| [Analog Joystick](#)  | [Image](#) | [Video](#) |
+| [IR Receiver](#)  | [Image](#) | [Video](#) |
+| [LCD Display](#)  | [Image](#) | [Video](#) |
+| [Thermometer](#)  | [Image](#) | [Video](#) |
 
 ## REFERENCES
 
@@ -18,7 +37,7 @@ This repository documents my journey into embedded systems, beginning with `Ardu
 
 ### Key Concepts
 
-1. **Electrical Signals**: 
+1. **Electrical Signals**:
     - **AC (Alternating Current)**: Electricity flows back and forth.
     - **DC (Direct Current)**: Electricity flows in one direction.
 
@@ -27,52 +46,52 @@ This repository documents my journey into embedded systems, beginning with `Ardu
     - Current is the rate of the flow of electrons. It's measured in amperes, which are also called amps.
 
     <br>
-    
+
     > In AC circuits, the voltage can be calculated using Ohm's law:
     > - `V = I x R`.
     > - `V` is the voltage (in volts, V)
     > - `I` is the current (in amperes, A)
     > - `R` is the resistance (in ohms, Ω)
 
-1. **Circuit Basics**:
+2. **Circuit Basics**:
     - **Closed Circuit**: Allows current to flow from power to ground.
     - **Open Circuit**: Interrupts the flow of electricity.
 
-1. **Series vs. Parallel Circuits**:
+3. **Series vs. Parallel Circuits**:
     - **Series**: Same current flows through all components.
     - **Parallel**: Same voltage across all components.
 
-1. **Resistors**: 
+4. **Resistors**:
     - Add resistance to the circuit, reducing current flow.
     - Measured in Ohms (Ω).
 
-1. **Capacitors**:
+5. **Capacitors**:
     - Store and discharge electricity to maintain a steady current.
     - Measured in Farads (F).
 
-1. **Diodes**:
+6. **Diodes**:
     - Allow current to flow in only one direction.
     - LEDs are a special type of diode that emits light.
 
-1. **Transistors**:
+7. **Transistors**:
     - Amplify electrical signals.
     - Two main types: NPN and PNP.
 
-1. **Integrated Circuits (ICs)**:
+8. **Integrated Circuits (ICs)**:
     - Miniaturized circuits with multiple components.
     - Common IC: 555 timer.
 
-1. **Potentiometers**:
+9. **Potentiometers**:
     - Variable resistors that adjust resistance in a circuit.
     - Commonly used in volume controls.
 
-1. **Switches**:
+10. **Switches**:
     - Mechanical devices that open or close circuits.
 
-1. **Batteries**:
+11. **Batteries**:
     - Convert chemical energy into electrical energy.
     - Can be connected in series to increase voltage or in parallel to increase current.
 
-1. **Breadboards**:
+12. **Breadboards**:
     - Prototyping boards used for building circuits without soldering.
     - Contains rows and columns of electrically connected holes for components.
