@@ -30,7 +30,10 @@ The kit used:
 | [LCD Display](https://github.com/jotavare/arduino/blob/main/sketches/lcd_display/lcd_display.ino) | [Image](https://github.com/jotavare/arduino/blob/main/sketches/lcd_display/lcd_display.jpg) | [Video](https://github.com/jotavare/arduino/blob/main/sketches/lcd_display/lcd_display.mp4) |
 | [Thermometer with LCD Display](https://github.com/jotavare/arduino/blob/main/sketches/thermometer_lcd_display/thermometer_lcd_display.ino) | [Image](https://github.com/jotavare/arduino/blob/main/sketches/thermometer_lcd_display/thermometer_lcd_display.jpg) | [Video](https://github.com/jotavare/arduino/blob/main/sketches/thermometer_lcd_display/thermometer_lcd_display.mp4) |
 | [Ultrasonic Sensor with LCD Display](https://github.com/jotavare/arduino/blob/main/sketches/ultrasonic_sensor_lcd_display/ultrasonic_sensor_lcd_display.ino) | [Image](https://github.com/jotavare/arduino/blob/main/sketches/ultrasonic_sensor_lcd_display/ultrasonic_sensor_lcd_display.jpg) | [Video](https://github.com/jotavare/arduino/blob/main/sketches/ultrasonic_sensor_lcd_display/ultrasonic_sensor_lcd_display.mp4) |
-
+| [Membrane Switch](https://github.com/jotavare/arduino/blob/main/sketches/membrane_switch/membrane_switch.ino) | [Image](https://github.com/jotavare/arduino/blob/main/sketches/membrane_switch/membrane_switch.jpg) | [Video](https://github.com/jotavare/arduino/blob/main/sketches/membrane_switch/membrane_switch.mp4) |
+| [LED Dot Matrix](https://github.com/jotavare/arduino/blob/main/sketches/led_dot_matrix/led_dot_matrix.ino) | [Image](https://github.com/jotavare/arduino/blob/main/sketches/led_dot_matrix/led_dot_matrix.jpg) | [Video](https://github.com/jotavare/arduino/blob/main/sketches/led_dot_matrix/led_dot_matrix.mp4) |
+| [Inertia Measurement Unit](https://github.com/jotavare/arduino/blob/main/sketches/inertia_measurement_sensor/inertia_measurement_sensor.ino) | [Image](https://github.com/jotavare/arduino/blob/main/sketches/inertia_measurement_sensor/inertia_measurement_sensor.jpg) | [Video](https://github.com/jotavare/arduino/blob/main/sketches/inertia_measurement_sensor/inertia_measurement_sensor.mp4) |
+| 
 ## REFERENCES
 
 - [Arduino Hardware](https://www.arduino.cc/en/Main/Products)
