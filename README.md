@@ -6,20 +6,21 @@ This repository documents my journey into embedded systems, starting with `Ardui
 
 | Sketche | Image | Video |
 | :------ | :---- | :---- |
-| [Blink](https://github.com/jotavare/arduino/tree/main/sketches/blink.ino) | [Image](#) | [Video](#) |
-| [LED](#)  | [Image](#) | [Video](#) |
-| [RGB LED](#)  | [Image](#) | [Video](#) |
-| [Digital Inputs](#)  | [Image](#) | [Video](#) |
-| [Active Buzzer](#)  | [Image](#) | [Video](#) |
-| [Passive Buzzer](#)  | [Image](#) | [Video](#) |
-| [Till Ball Switch](#)  | [Image](#) | [Video](#) |
-| [Servo](#)  | [Image](#) | [Video](#) |
-| [Ultrasonic Sensor](#)  | [Image](#) | [Video](#) |
-| [Temperature and Humidity Sensor](#)  | [Image](#) | [Video](#) |
-| [Analog Joystick](#)  | [Image](#) | [Video](#) |
-| [IR Receiver](#)  | [Image](#) | [Video](#) |
-| [LCD Display](#)  | [Image](#) | [Video](#) |
-| [Thermometer](#)  | [Image](#) | [Video](#) |
+| [Blink](https://github.com/jotavare/arduino/blob/main/sketches/blink/blink.ino) | [Image](https://github.com/jotavare/arduino/blob/main/sketches/blink/blink.jpg) | [Video](https://github.com/jotavare/arduino/blob/main/sketches/blink/blink.mp4) |
+| [LED](https://github.com/jotavare/arduino/blob/main/sketches/led/led.ino) | [Image](https://github.com/jotavare/arduino/blob/main/sketches/led/led.jpg) | [Video](https://github.com/jotavare/arduino/blob/main/sketches/led/led.mp4) |
+| [RGB LED](https://github.com/jotavare/arduino/blob/main/sketches/rgb_led/rgb_led.ino) | [Image](https://github.com/jotavare/arduino/blob/main/sketches/rgb_led/rgb_led.jpg) | [Video](https://github.com/jotavare/arduino/blob/main/sketches/rgb_led/rgb_led.mp4) |
+| [Digital Inputs](https://github.com/jotavare/arduino/blob/main/sketches/digital_inputs/digital_inputs.ino) | [Image](https://github.com/jotavare/arduino/blob/main/sketches/digital_inputs/digital_inputs.jpg) | [Video](https://github.com/jotavare/arduino/blob/main/sketches/digital_inputs/digital_inputs.mp4) |
+| [Active Buzzer](https://github.com/jotavare/arduino/blob/main/sketches/active_buzzer/active_buzzer.ino) | [Image](https://github.com/jotavare/arduino/blob/main/sketches/active_buzzer/active_buzzer.jpg) | [Video](https://github.com/jotavare/arduino/blob/main/sketches/active_buzzer/active_buzzer.mp4) |
+| [Passive Buzzer](https://github.com/jotavare/arduino/blob/main/sketches/passive_buzzer/passive_buzzer.ino) | [Image](https://github.com/jotavare/arduino/blob/main/sketches/passive_buzzer/passive_buzzer.jpg) | [Video](https://github.com/jotavare/arduino/blob/main/sketches/passive_buzzer/passive_buzzer.mp4) |
+| [Till Ball Switch](https://github.com/jotavare/arduino/blob/main/sketches/till_ball_switch/till_ball_switch.ino) | [Image](https://github.com/jotavare/arduino/blob/main/sketches/till_ball_switch/till_ball_switch.jpg) | [Video](https://github.com/jotavare/arduino/blob/main/sketches/till_ball_switch/till_ball_switch.mp4) |
+| [Servo](https://github.com/jotavare/arduino/blob/main/sketches/servo/servo.ino) | [Image](https://github.com/jotavare/arduino/blob/main/sketches/servo/servo.jpg) | [Video](https://github.com/jotavare/arduino/blob/main/sketches/servo/servo.mp4) |
+| [Ultrasonic Sensor](https://github.com/jotavare/arduino/blob/main/sketches/ultrasonic_sensor/ultrasonic_sensor.ino) | [Image](https://github.com/jotavare/arduino/blob/main/sketches/ultrasonic_sensor/ultrasonic_sensor.jpg) | [Video](https://github.com/jotavare/arduino/blob/main/sketches/ultrasonic_sensor/ultrasonic_sensor.mp4) |
+| [Temperature and Humidity Sensor](https://github.com/jotavare/arduino/blob/main/sketches/temperature_humidity_sensor/temperature_humidity_sensor.ino) | [Image](https://github.com/jotavare/arduino/blob/main/sketches/temperature_humidity_sensor/temperature_humidity_sensor.jpg) | [Video](https://github.com/jotavare/arduino/blob/main/sketches/temperature_humidity_sensor/temperature_humidity_sensor.mp4) |
+| [Analog Joystick](https://github.com/jotavare/arduino/blob/main/sketches/analog_joystick/analog_joystick.ino) | [Image](https://github.com/jotavare/arduino/blob/main/sketches/analog_joystick/analog_joystick.jpg) | [Video](https://github.com/jotavare/arduino/blob/main/sketches/analog_joystick/analog_joystick.mp4) |
+| [IR Receiver](https://github.com/jotavare/arduino/blob/main/sketches/ir_receiver/ir_receiver.ino) | [Image](https://github.com/jotavare/arduino/blob/main/sketches/ir_receiver/ir_receiver.jpg) | [Video](https://github.com/jotavare/arduino/blob/main/sketches/ir_receiver/ir_receiver.mp4) |
+| [LCD Display](https://github.com/jotavare/arduino/blob/main/sketches/lcd_display/lcd_display.ino) | [Image](https://github.com/jotavare/arduino/blob/main/sketches/lcd_display/lcd_display.jpg) | [Video](https://github.com/jotavare/arduino/blob/main/sketches/lcd_display/lcd_display.mp4) |
+| [Thermometer with LCD Display](https://github.com/jotavare/arduino/blob/main/sketches/thermometer_lcd_display/thermometer_lcd_display.ino) | [Image](https://github.com/jotavare/arduino/blob/main/sketches/thermometer_lcd_display/thermometer_lcd_display.jpg) | [Video](https://github.com/jotavare/arduino/blob/main/sketches/thermometer_lcd_display/thermometer_lcd_display.mp4) |
+| [Ultrasonic Sensor with LCD Display](https://github.com/jotavare/arduino/blob/main/sketches/ultrasonic_sensor_display/ultrasonic_sensor_display.ino) | [Image](https://github.com/jotavare/arduino/blob/main/sketches/ultrasonic_sensor_display/ultrasonic_sensor_display.jpg) | [Video](https://github.com/jotavare/arduino/blob/main/sketches/ultrasonic_sensor_display/ultrasonic_sensor_display.mp4) |
 
 ## REFERENCES
 
