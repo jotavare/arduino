@@ -1,18 +1,18 @@
-// Constants
-const int ledPin = 13; // Pin connected to the LED
+// constants
+const int ledPin = 13; // pin connected to the led
 
 void setup() {
-  // Initialize the digital pin as an output
+  // initialize the digital pin as an output
   pinMode(ledPin, OUTPUT);
 }
 
 void loop() {
-  // Turn the LED on (HIGH is the voltage level)
+  // turn the led on (high is the voltage level)
   digitalWrite(ledPin, HIGH);
-  // Wait for a second
+  // wait for a second
   delay(1000);
-  // Turn the LED off by making the voltage LOW
+  // turn the led off by making the voltage low
   digitalWrite(ledPin, LOW);
-  // Wait for a second
+  // wait for a second
   delay(1000);
 }
