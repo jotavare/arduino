@@ -1,15 +1,15 @@
 #include "IRremote.h"
 
-int receiver = 11; // Signal Pin of IR receiver to Arduino Digital Pin 11
+int receiver = 11; // signal pin of ir receiver to arduino digital pin 11
 
-/*-----( Declare objects )-----*/
+/*-----( declare objects )-----*/
 IRrecv irrecv(receiver); // create instance of 'irrecv'
-// vairable uses to store the last decodedRawData
+// variable used to store the last decodedRawData
 uint32_t last_decodedRawData = 0;
-/*-----( Function )-----*/
-void translateIR() // takes action based on IR code received
+/*-----( function )-----*/
+void translateIR() // takes action based on ir code received
 {
-  // Check if it is a repeat IR code
+  // check if it is a repeat ir code
   if (irrecv.decodedIRData.flags)
   {
     // set the current decodedRawData to the last decodedRawData
@@ -18,11 +18,11 @@ void translateIR() // takes action based on IR code received
   }
   else
   {
-    // output the IR code on the serial monitor
+    // output the ir code on the serial monitor
     Serial.print("IR code:0x");
     Serial.println(irrecv.decodedIRData.decodedRawData, HEX);
   }
-  // map the IR code to the remote key
+  // map the ir code to the remote key
   switch (irrecv.decodedIRData.decodedRawData)
   {
   case 0xBA45FF00:
@@ -90,23 +90,23 @@ void translateIR() // takes action based on IR code received
     break;
   default:
     Serial.println(" other button   ");
-  } // End Case
+  } // end case
   // store the last decodedRawData
   last_decodedRawData = irrecv.decodedIRData.decodedRawData;
-  delay(500); // Do not get immediate repeat
-} // END translateIR
+  delay(500); // do not get immediate repeat
+} // end translateIR
 
-void setup() /*----( SETUP: RUNS ONCE )----*/
+void setup() /*----( setup: runs once )----*/
 {
   Serial.begin(9600);
   Serial.println("IR Receiver Button Decode");
-  irrecv.enableIRIn(); // Start the receiver
+  irrecv.enableIRIn(); // start the receiver
 
 } /*--(end setup )---*/
 
-void loop() /*----( LOOP: RUNS CONSTANTLY )----*/
+void loop() /*----( loop: runs constantly )----*/
 {
-  if (irrecv.decode()) // have we received an IR signal?
+  if (irrecv.decode()) // have we received an ir signal?
   {
     translateIR();
     irrecv.resume(); // receive the next value
