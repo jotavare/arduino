@@ -6,18 +6,16 @@ The `/sketches` folder includes:
   - `.ino` files with the code.
   - `.jpg` images of the schematic.
   - `.jpg` images of the setup.
-  - `.mp4` videos showing the setup in action.
+  - `.mp4` videos showing the setup in action.2
 
 The kit used:
   - ELEGOO Mega R3 2560, available for purchase [here](https://www.amazon.es/dp/B01MQPT9OD).
 
 ## SKETCHES
 
-[![Video](https://github.com/jotavare/arduino/blob/main/sketches/blink/blink.jpg)](https://github.com/jotavare/arduino/blob/main/sketches/blink/blink.mp4)
-
-| Sketche | Image | Video |
-| :------ | :---- | :---- |
-| [Blink](https://github.com/jotavare/arduino/blob/main/sketches/blink/blink.ino) | [Image](https://github.com/jotavare/arduino/blob/main/sketches/blink/blink.jpg) | ![](https://github.com/jotavare/arduino/blob/main/sketches/blink/blink.mp4)
+| Code (.ino) | Image (.jpg) | Video (.mp4) |
+| :---------- | :----------- | :----------- |
+| [Blink](https://github.com/jotavare/arduino/blob/main/sketches/blink/blink.ino) | [Image](https://github.com/jotavare/arduino/blob/main/sketches/blink/blink.jpg) | [Video](https://github.com/jotavare/arduino/blob/main/sketches/blink/blink.mp4) |
 | [LED](https://github.com/jotavare/arduino/blob/main/sketches/led/led.ino) | [Image](https://github.com/jotavare/arduino/blob/main/sketches/led/led.jpg) | [Video](https://github.com/jotavare/arduino/blob/main/sketches/led/led.mp4) |
 | [RGB LED](https://github.com/jotavare/arduino/blob/main/sketches/rgb_led/rgb_led.ino) | [Image](https://github.com/jotavare/arduino/blob/main/sketches/rgb_led/rgb_led.jpg) | [Video](https://github.com/jotavare/arduino/blob/main/sketches/rgb_led/rgb_led.mp4) |
 | [Digital Inputs](https://github.com/jotavare/arduino/blob/main/sketches/digital_inputs/digital_inputs.ino) | [Image](https://github.com/jotavare/arduino/blob/main/sketches/digital_inputs/digital_inputs.jpg) | [Video](https://github.com/jotavare/arduino/blob/main/sketches/digital_inputs/digital_inputs.mp4) |
