@@ -3,10 +3,10 @@
 This repository documents my exploration of embedded systems, beginning with Arduino. The `README.md` contains references and key insights gained throughout my projects.
 
 The `/sketches` folder includes:
-  - `.ino` files with the code.
-  - `.jpg` images of the schematic.
-  - `.jpg` images of the setup.
-  - `.mp4` videos showing the setup in action.2
+  - `.ino` file with the code.
+  - `.jpg` image of the schematic (soon to be added).
+  - `.jpg` image of the setup.
+  - `.mp4` video showing the setup in action.
 
 The kit used:
   - ELEGOO Mega R3 2560, available for purchase [here](https://www.amazon.es/dp/B01MQPT9OD).
