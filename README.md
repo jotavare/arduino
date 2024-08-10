@@ -17,7 +17,7 @@ The kit used:
 
 | Sketche | Image | Video |
 | :------ | :---- | :---- |
-| [Blink](https://github.com/jotavare/arduino/blob/main/sketches/blink/blink.ino) | [Image](https://github.com/jotavare/arduino/blob/main/sketches/blink/blink.jpg) | [![Video](https://github.com/jotavare/arduino/blob/main/sketches/blink/blink.jpg)](https://github.com/jotavare/arduino/blob/main/sketches/blink/blink.mp4) |
+| [Blink](https://github.com/jotavare/arduino/blob/main/sketches/blink/blink.ino) | [Image](https://github.com/jotavare/arduino/blob/main/sketches/blink/blink.jpg) | ![](https://github.com/jotavare/arduino/blob/main/sketches/blink/blink.mp4)
 | [LED](https://github.com/jotavare/arduino/blob/main/sketches/led/led.ino) | [Image](https://github.com/jotavare/arduino/blob/main/sketches/led/led.jpg) | [Video](https://github.com/jotavare/arduino/blob/main/sketches/led/led.mp4) |
 | [RGB LED](https://github.com/jotavare/arduino/blob/main/sketches/rgb_led/rgb_led.ino) | [Image](https://github.com/jotavare/arduino/blob/main/sketches/rgb_led/rgb_led.jpg) | [Video](https://github.com/jotavare/arduino/blob/main/sketches/rgb_led/rgb_led.mp4) |
 | [Digital Inputs](https://github.com/jotavare/arduino/blob/main/sketches/digital_inputs/digital_inputs.ino) | [Image](https://github.com/jotavare/arduino/blob/main/sketches/digital_inputs/digital_inputs.jpg) | [Video](https://github.com/jotavare/arduino/blob/main/sketches/digital_inputs/digital_inputs.mp4) |
