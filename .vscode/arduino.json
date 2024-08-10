@@ -1,0 +1,8 @@
+{
+    "configuration": "cpu=atmega2560",
+    "board": "arduino:avr:mega",
+    "port": "COM3",
+    "programmer": "arduinoasispatmega32u4",
+    "output": "build",
+    "sketch": "sketches\\inertia_measurement_sensor\\inertia_measurement_sensor.ino"
+}
