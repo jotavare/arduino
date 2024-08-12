@@ -9,12 +9,12 @@ void setup()
 
 void loop()
 {
-    int value = analogRead(adc_id); // get adc value
+  int value = analogRead(adc_id); // get adc value
 
-    if(((HistoryValue>=value) && ((HistoryValue - value) > 10)) || ((HistoryValue<value) && ((value - HistoryValue) > 10)))
-    {
-      sprintf(printBuffer,"ADC%d level is %d\n",adc_id, value);
-      Serial.print(printBuffer);
-      HistoryValue = value;
-    }
+  if (((HistoryValue >= value) && ((HistoryValue - value) > 10)) || ((HistoryValue < value) && ((value - HistoryValue) > 10)))
+  {
+    sprintf(printBuffer, "ADC%d level is %d\n", adc_id, value);
+    Serial.print(printBuffer);
+    HistoryValue = value;
+  }
 }
