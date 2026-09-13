@@ -4,7 +4,6 @@ This repository documents my exploration of embedded systems, beginning with Ard
 
 The `/sketches` folder includes:
   - `.ino` file with the code.
-  - `.jpg` image of the schematic (soon to be added).
   - `.jpg` image of the setup.
   - `.mp4` video showing the setup in action.
 

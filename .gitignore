@@ -1,1 +1,5 @@
 *build/
+
+# The VS Code Arduino extension regenerates these with absolute paths to the
+# machine that opened the sketch, so they are never portable.
+.vscode/
