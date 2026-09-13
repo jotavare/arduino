@@ -1,3 +1,18 @@
+<p align="center">
+	<img src="https://img.shields.io/badge/status-finished-success?color=%2312bab9&style=flat-square"/>
+	<img src="https://img.shields.io/github/last-commit/jotavare/arduino?color=%2312bab9&style=flat-square"/>
+	<a href='https://www.linkedin.com/in/jotavare' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-blue?style=flat-square'/></a>
+</p>
+
+<p align="center">
+	<a href="#about">About</a> •
+	<a href="#sketches">Sketches</a> •
+	<a href="#references">References</a> •
+	<a href="#basics">Basics</a> •
+	<a href="#contributing">Contributing</a> •
+	<a href="#license">License</a>
+</p>
+
 ## ABOUT
 
 This repository documents my exploration of embedded systems, beginning with Arduino. The `README.md` contains references and key insights gained throughout my projects.
@@ -60,7 +75,7 @@ The kit used:
     - **AC (Alternating Current)**: Electricity flows back and forth.
     - **DC (Direct Current)**: Electricity flows in one direction.
 
-1. **Voltage and Current**:
+2. **Voltage and Current**:
     - Voltage is the force that makes electrons flow. It's a difference in potential energy between two different points in a circuit.
     - Current is the rate of the flow of electrons. It's measured in amperes, which are also called amps.
 
@@ -72,45 +87,61 @@ The kit used:
     > - `I` is the current (in amperes, A)
     > - `R` is the resistance (in ohms, Ω)
 
-2. **Circuit Basics**:
+3. **Circuit Basics**:
     - **Closed Circuit**: Allows current to flow from power to ground.
     - **Open Circuit**: Interrupts the flow of electricity.
 
-3. **Series vs. Parallel Circuits**:
+4. **Series vs. Parallel Circuits**:
     - **Series**: Same current flows through all components.
     - **Parallel**: Same voltage across all components.
 
-4. **Resistors**:
+5. **Resistors**:
     - Add resistance to the circuit, reducing current flow.
     - Measured in Ohms (Ω).
 
-5. **Capacitors**:
+6. **Capacitors**:
     - Store and discharge electricity to maintain a steady current.
     - Measured in Farads (F).
 
-6. **Diodes**:
+7. **Diodes**:
     - Allow current to flow in only one direction.
     - LEDs are a special type of diode that emits light.
 
-7. **Transistors**:
+8. **Transistors**:
     - Amplify electrical signals.
     - Two main types: NPN and PNP.
 
-8. **Integrated Circuits (ICs)**:
+9. **Integrated Circuits (ICs)**:
     - Miniaturized circuits with multiple components.
     - Common IC: 555 timer.
 
-9. **Potentiometers**:
+10. **Potentiometers**:
     - Variable resistors that adjust resistance in a circuit.
     - Commonly used in volume controls.
 
-10. **Switches**:
+11. **Switches**:
     - Mechanical devices that open or close circuits.
 
-11. **Batteries**:
+12. **Batteries**:
     - Convert chemical energy into electrical energy.
     - Can be connected in series to increase voltage or in parallel to increase current.
 
-12. **Breadboards**:
+13. **Breadboards**:
     - Prototyping boards used for building circuits without soldering.
     - Contains rows and columns of electrically connected holes for components.
+
+## CONTRIBUTING
+
+This repository documents finished sketches, so it is not open to changes.
+Feel free to fork it if any of it is useful to you.
+
+## LICENSE
+
+The sketches and documentation here are available under the MIT License. See
+the [LICENSE](https://github.com/jotavare/arduino/blob/main/LICENSE) file.
+
+That licence covers this repository's own work only. The archives under
+`libraries/` and the datasheets and tutorial under `pdf/` are redistributed
+third-party material and stay under their own terms: each library archive
+carries its upstream licence where one is provided, and the ELEGOO
+documentation remains ELEGOO's copyright.
