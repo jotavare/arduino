@@ -22,6 +22,11 @@ The `/sketches` folder includes:
   - `.jpg` image of the setup.
   - `.mp4` video showing the setup in action.
 
+> [!NOTE]
+> `ultrasonic_sensor_lcd_display` includes `LiquidCrystal_I2C.h`, which is not
+> among the archives under `libraries/` - install it separately to build that
+> sketch.
+
 The kit used:
   - ELEGOO Mega R3 2560, available for purchase [here](https://www.amazon.es/dp/B01MQPT9OD).
 
