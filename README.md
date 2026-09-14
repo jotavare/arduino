@@ -142,8 +142,7 @@ Feel free to fork it if any of it is useful to you.
 
 ## LICENSE
 
-The sketches and documentation here are available under the MIT License. See
-the [LICENSE](https://github.com/jotavare/arduino/blob/main/LICENSE) file.
+This project is available under the MIT License. For further details, please refer to the [LICENSE](https://github.com/jotavare/arduino/blob/main/LICENSE) file.
 
 That licence covers this repository's own work only. The archives under
 `libraries/` and the datasheets and tutorial under `pdf/` are redistributed
