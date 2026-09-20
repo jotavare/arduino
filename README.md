@@ -1,16 +1,6 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/status-finished-success?color=%2312bab9&style=flat-square"/>
-	<img src="https://img.shields.io/github/last-commit/jotavare/arduino?color=%2312bab9&style=flat-square"/>
-	<a href='https://www.linkedin.com/in/jotavare' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-blue?style=flat-square'/></a>
-</p>
-
-<p align="center">
-	<a href="#about">About</a> •
-	<a href="#sketches">Sketches</a> •
-	<a href="#references">References</a> •
-	<a href="#basics">Basics</a> •
-	<a href="#contributing">Contributing</a> •
-	<a href="#license">License</a>
+	<a href='https://www.linkedin.com/in/jotavare' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4K&logoColor=white'/></a>
 </p>
 
 ## ABOUT
@@ -29,6 +19,13 @@ The `/sketches` folder includes:
 
 The kit used:
   - ELEGOO Mega R3 2560, available for purchase [here](https://www.amazon.es/dp/B01MQPT9OD).
+
+> [!NOTE]
+> This repository's own MIT licence covers its own work only. The archives
+> under `libraries/` and the datasheets and tutorial under `pdf/` are
+> redistributed third-party material and stay under their own terms: each
+> library archive carries its upstream licence where one is provided, and
+> the ELEGOO documentation remains ELEGOO's copyright.
 
 ## SKETCHES
 
@@ -134,18 +131,3 @@ The kit used:
 13. **Breadboards**:
     - Prototyping boards used for building circuits without soldering.
     - Contains rows and columns of electrically connected holes for components.
-
-## CONTRIBUTING
-
-This repository documents finished sketches, so it is not open to changes.
-Feel free to fork it if any of it is useful to you.
-
-## LICENSE
-
-This project is available under the MIT License. For further details, please refer to the [LICENSE](https://github.com/jotavare/arduino/blob/main/LICENSE) file.
-
-That licence covers this repository's own work only. The archives under
-`libraries/` and the datasheets and tutorial under `pdf/` are redistributed
-third-party material and stay under their own terms: each library archive
-carries its upstream licence where one is provided, and the ELEGOO
-documentation remains ELEGOO's copyright.
